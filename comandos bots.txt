@@ -1,0 +1,16 @@
+Use os comandos abaixo no console ("), após criar o servidor.
+
+bot_add - Adiciona um bot.
+bot_add_ct - Adiciona um bot no CT.
+bot_add_tr - Adiciona um bot no Terror.
+bot_kill - Mata todos os bots.
+bot_difficulty 0 - Bot na dificuldade Easy.
+bot_difficulty 2 - Bot na dificuldade Normal.
+bot_difficulty 3 - Bot na dificuldade Hard.
+bot_difficulty 4 - Bot na dificuldade Expert. bot_kick - Kicka todos os bots.
+bot_kick x - Kicka um bot. Troque "x" pelo nick do bot.
+bot_knives only - Bots só usa faca.
+bot_pistols_only - Bots só usa pistolas .
+bot_snipers_only - Bots só usa snipers.
+bot_all_weapons - Bots usa todas as armas.
+bot_allow_shield x - 1 habilita o bot a usar o escudo. 0 desabilita
