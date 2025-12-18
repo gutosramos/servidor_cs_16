@@ -1,4 +1,23 @@
-# Ignore log files
-cstrike/addons/amxmodx/logs/*.log
-cstrike/addons/amxmodx/data/csstats.dat
-cstrike/logs/*.log
+# Logs
+*.log
+logs/
+cstrike/logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Backups
+*.bak
+*.backup
+
+# Binários do servidor (se tiver)
+hlds_linux
+hlds_run
+
+# Arquivos do Docker (se usar)
+Dockerfile
+*.tar.gz
+
+# Sensitive data
+server.cfg  # Vamos versionar um template em vez do real
